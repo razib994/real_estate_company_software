@@ -1,0 +1,20 @@
+[13-Apr-2021 01:10:39 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Foundation\Application' not found in /home/neezerba/accounts.neezerbari.com/bootstrap/app.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/neezerba/accounts.neezerbari.com/bootstrap/app.php on line 14
+[13-Apr-2021 01:10:39 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Foundation\Application' not found in /home/neezerba/accounts.neezerbari.com/bootstrap/app.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/neezerba/accounts.neezerbari.com/bootstrap/app.php on line 14
+[13-Apr-2021 01:10:39 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Foundation\Application' not found in /home/neezerba/accounts.neezerbari.com/bootstrap/app.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/neezerba/accounts.neezerbari.com/bootstrap/app.php on line 14
+[13-Apr-2021 01:11:19 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Foundation\Application' not found in /home/neezerba/accounts.neezerbari.com/bootstrap/app.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/neezerba/accounts.neezerbari.com/bootstrap/app.php on line 14
+[13-Apr-2021 01:11:19 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Foundation\Application' not found in /home/neezerba/accounts.neezerbari.com/bootstrap/app.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/neezerba/accounts.neezerbari.com/bootstrap/app.php on line 14

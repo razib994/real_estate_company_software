@@ -1,0 +1,224 @@
+[13-Apr-2021 01:10:38 UTC] PHP Fatal error:  Uncaught Error: Class 'Auth' not found in /home/neezerba/accounts.neezerbari.com/routes/web.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/neezerba/accounts.neezerbari.com/routes/web.php on line 17
+[13-Apr-2021 01:10:39 UTC] PHP Fatal error:  Uncaught Error: Class 'Auth' not found in /home/neezerba/accounts.neezerbari.com/routes/web.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/neezerba/accounts.neezerbari.com/routes/web.php on line 17
+[13-Apr-2021 01:10:39 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Support\Facades\Artisan' not found in /home/neezerba/accounts.neezerbari.com/routes/console.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/neezerba/accounts.neezerbari.com/routes/console.php on line 17
+[13-Apr-2021 01:10:39 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Support\Facades\Artisan' not found in /home/neezerba/accounts.neezerbari.com/routes/console.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/neezerba/accounts.neezerbari.com/routes/console.php on line 17
+[13-Apr-2021 01:10:39 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Support\Facades\Artisan' not found in /home/neezerba/accounts.neezerbari.com/routes/console.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/neezerba/accounts.neezerbari.com/routes/console.php on line 17
+[13-Apr-2021 01:10:39 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Support\Facades\Artisan' not found in /home/neezerba/accounts.neezerbari.com/routes/console.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/neezerba/accounts.neezerbari.com/routes/console.php on line 17
+[13-Apr-2021 01:10:39 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Support\Facades\Artisan' not found in /home/neezerba/accounts.neezerbari.com/routes/console.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/neezerba/accounts.neezerbari.com/routes/console.php on line 17
+[13-Apr-2021 01:10:39 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Support\Facades\Artisan' not found in /home/neezerba/accounts.neezerbari.com/routes/console.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/neezerba/accounts.neezerbari.com/routes/console.php on line 17
+[13-Apr-2021 01:10:39 UTC] PHP Fatal error:  Uncaught Error: Class 'Auth' not found in /home/neezerba/accounts.neezerbari.com/routes/web.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/neezerba/accounts.neezerbari.com/routes/web.php on line 17
+[13-Apr-2021 01:10:40 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Support\Facades\Artisan' not found in /home/neezerba/accounts.neezerbari.com/routes/console.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/neezerba/accounts.neezerbari.com/routes/console.php on line 17
+[13-Apr-2021 01:10:40 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Support\Facades\Route' not found in /home/neezerba/accounts.neezerbari.com/routes/api.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/neezerba/accounts.neezerbari.com/routes/api.php on line 17
+[13-Apr-2021 01:10:40 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Support\Facades\Route' not found in /home/neezerba/accounts.neezerbari.com/routes/api.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/neezerba/accounts.neezerbari.com/routes/api.php on line 17
+[13-Apr-2021 01:10:40 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Support\Facades\Artisan' not found in /home/neezerba/accounts.neezerbari.com/routes/console.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/neezerba/accounts.neezerbari.com/routes/console.php on line 17
+[13-Apr-2021 01:10:40 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Support\Facades\Artisan' not found in /home/neezerba/accounts.neezerbari.com/routes/console.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/neezerba/accounts.neezerbari.com/routes/console.php on line 17
+[13-Apr-2021 01:10:41 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Support\Facades\Route' not found in /home/neezerba/accounts.neezerbari.com/routes/api.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/neezerba/accounts.neezerbari.com/routes/api.php on line 17
+[13-Apr-2021 01:10:41 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Support\Facades\Route' not found in /home/neezerba/accounts.neezerbari.com/routes/api.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/neezerba/accounts.neezerbari.com/routes/api.php on line 17
+[13-Apr-2021 01:10:41 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Support\Facades\Artisan' not found in /home/neezerba/accounts.neezerbari.com/routes/console.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/neezerba/accounts.neezerbari.com/routes/console.php on line 17
+[13-Apr-2021 01:10:42 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Support\Facades\Artisan' not found in /home/neezerba/accounts.neezerbari.com/routes/console.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/neezerba/accounts.neezerbari.com/routes/console.php on line 17
+[13-Apr-2021 01:10:43 UTC] PHP Fatal error:  Uncaught Error: Class 'Auth' not found in /home/neezerba/accounts.neezerbari.com/routes/web.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/neezerba/accounts.neezerbari.com/routes/web.php on line 17
+[13-Apr-2021 01:10:46 UTC] PHP Fatal error:  Uncaught Error: Class 'Auth' not found in /home/neezerba/accounts.neezerbari.com/routes/web.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/neezerba/accounts.neezerbari.com/routes/web.php on line 17
+[13-Apr-2021 01:10:49 UTC] PHP Fatal error:  Uncaught Error: Class 'Auth' not found in /home/neezerba/accounts.neezerbari.com/routes/web.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/neezerba/accounts.neezerbari.com/routes/web.php on line 17
+[13-Apr-2021 01:10:50 UTC] PHP Fatal error:  Uncaught Error: Class 'Auth' not found in /home/neezerba/accounts.neezerbari.com/routes/web.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/neezerba/accounts.neezerbari.com/routes/web.php on line 17
+[13-Apr-2021 01:10:50 UTC] PHP Fatal error:  Uncaught Error: Class 'Auth' not found in /home/neezerba/accounts.neezerbari.com/routes/web.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/neezerba/accounts.neezerbari.com/routes/web.php on line 17
+[13-Apr-2021 01:10:50 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Support\Facades\Broadcast' not found in /home/neezerba/accounts.neezerbari.com/routes/channels.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/neezerba/accounts.neezerbari.com/routes/channels.php on line 16
+[13-Apr-2021 01:10:51 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Support\Facades\Broadcast' not found in /home/neezerba/accounts.neezerbari.com/routes/channels.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/neezerba/accounts.neezerbari.com/routes/channels.php on line 16
+[13-Apr-2021 01:10:51 UTC] PHP Fatal error:  Uncaught Error: Class 'Auth' not found in /home/neezerba/accounts.neezerbari.com/routes/web.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/neezerba/accounts.neezerbari.com/routes/web.php on line 17
+[13-Apr-2021 01:10:51 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Support\Facades\Broadcast' not found in /home/neezerba/accounts.neezerbari.com/routes/channels.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/neezerba/accounts.neezerbari.com/routes/channels.php on line 16
+[13-Apr-2021 01:10:51 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Support\Facades\Broadcast' not found in /home/neezerba/accounts.neezerbari.com/routes/channels.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/neezerba/accounts.neezerbari.com/routes/channels.php on line 16
+[13-Apr-2021 01:10:51 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Support\Facades\Broadcast' not found in /home/neezerba/accounts.neezerbari.com/routes/channels.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/neezerba/accounts.neezerbari.com/routes/channels.php on line 16
+[13-Apr-2021 01:10:51 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Support\Facades\Route' not found in /home/neezerba/accounts.neezerbari.com/routes/api.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/neezerba/accounts.neezerbari.com/routes/api.php on line 17
+[13-Apr-2021 01:10:51 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Support\Facades\Broadcast' not found in /home/neezerba/accounts.neezerbari.com/routes/channels.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/neezerba/accounts.neezerbari.com/routes/channels.php on line 16
+[13-Apr-2021 01:10:51 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Support\Facades\Broadcast' not found in /home/neezerba/accounts.neezerbari.com/routes/channels.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/neezerba/accounts.neezerbari.com/routes/channels.php on line 16
+[13-Apr-2021 01:10:51 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Support\Facades\Route' not found in /home/neezerba/accounts.neezerbari.com/routes/api.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/neezerba/accounts.neezerbari.com/routes/api.php on line 17
+[13-Apr-2021 01:10:51 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Support\Facades\Broadcast' not found in /home/neezerba/accounts.neezerbari.com/routes/channels.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/neezerba/accounts.neezerbari.com/routes/channels.php on line 16
+[13-Apr-2021 01:10:52 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Support\Facades\Broadcast' not found in /home/neezerba/accounts.neezerbari.com/routes/channels.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/neezerba/accounts.neezerbari.com/routes/channels.php on line 16
+[13-Apr-2021 01:10:52 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Support\Facades\Route' not found in /home/neezerba/accounts.neezerbari.com/routes/api.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/neezerba/accounts.neezerbari.com/routes/api.php on line 17
+[13-Apr-2021 01:10:52 UTC] PHP Fatal error:  Uncaught Error: Class 'Auth' not found in /home/neezerba/accounts.neezerbari.com/routes/web.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/neezerba/accounts.neezerbari.com/routes/web.php on line 17
+[13-Apr-2021 01:10:52 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Support\Facades\Broadcast' not found in /home/neezerba/accounts.neezerbari.com/routes/channels.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/neezerba/accounts.neezerbari.com/routes/channels.php on line 16
+[13-Apr-2021 01:10:53 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Support\Facades\Broadcast' not found in /home/neezerba/accounts.neezerbari.com/routes/channels.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/neezerba/accounts.neezerbari.com/routes/channels.php on line 16
+[13-Apr-2021 01:10:53 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Support\Facades\Broadcast' not found in /home/neezerba/accounts.neezerbari.com/routes/channels.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/neezerba/accounts.neezerbari.com/routes/channels.php on line 16
+[13-Apr-2021 01:11:16 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Support\Facades\Route' not found in /home/neezerba/accounts.neezerbari.com/routes/api.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/neezerba/accounts.neezerbari.com/routes/api.php on line 17
+[13-Apr-2021 01:11:17 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Support\Facades\Route' not found in /home/neezerba/accounts.neezerbari.com/routes/api.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/neezerba/accounts.neezerbari.com/routes/api.php on line 17
+[13-Apr-2021 01:12:18 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Support\Facades\Route' not found in /home/neezerba/accounts.neezerbari.com/routes/api.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/neezerba/accounts.neezerbari.com/routes/api.php on line 17
+[13-Apr-2021 01:12:20 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Support\Facades\Route' not found in /home/neezerba/accounts.neezerbari.com/routes/api.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/neezerba/accounts.neezerbari.com/routes/api.php on line 17
+[13-Apr-2021 01:12:22 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Support\Facades\Route' not found in /home/neezerba/accounts.neezerbari.com/routes/api.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/neezerba/accounts.neezerbari.com/routes/api.php on line 17
+[13-Apr-2021 01:14:46 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Support\Facades\Route' not found in /home/neezerba/accounts.neezerbari.com/routes/api.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/neezerba/accounts.neezerbari.com/routes/api.php on line 17
+[13-Apr-2021 01:16:09 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Support\Facades\Route' not found in /home/neezerba/accounts.neezerbari.com/routes/api.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/neezerba/accounts.neezerbari.com/routes/api.php on line 17
+[13-Apr-2021 01:21:05 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Support\Facades\Artisan' not found in /home/neezerba/accounts.neezerbari.com/routes/console.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/neezerba/accounts.neezerbari.com/routes/console.php on line 17
+[13-Apr-2021 01:21:07 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Support\Facades\Artisan' not found in /home/neezerba/accounts.neezerbari.com/routes/console.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/neezerba/accounts.neezerbari.com/routes/console.php on line 17
+[13-Apr-2021 01:21:10 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Support\Facades\Artisan' not found in /home/neezerba/accounts.neezerbari.com/routes/console.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/neezerba/accounts.neezerbari.com/routes/console.php on line 17
+[13-Apr-2021 01:24:37 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Support\Facades\Artisan' not found in /home/neezerba/accounts.neezerbari.com/routes/console.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/neezerba/accounts.neezerbari.com/routes/console.php on line 17
+[13-Apr-2021 01:32:04 UTC] PHP Fatal error:  Uncaught Error: Class 'Auth' not found in /home/neezerba/accounts.neezerbari.com/routes/web.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/neezerba/accounts.neezerbari.com/routes/web.php on line 17
+[13-Apr-2021 01:32:07 UTC] PHP Fatal error:  Uncaught Error: Class 'Auth' not found in /home/neezerba/accounts.neezerbari.com/routes/web.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/neezerba/accounts.neezerbari.com/routes/web.php on line 17
+[13-Apr-2021 01:32:11 UTC] PHP Fatal error:  Uncaught Error: Class 'Auth' not found in /home/neezerba/accounts.neezerbari.com/routes/web.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/neezerba/accounts.neezerbari.com/routes/web.php on line 17
+[13-Apr-2021 01:34:03 UTC] PHP Fatal error:  Uncaught Error: Class 'Auth' not found in /home/neezerba/accounts.neezerbari.com/routes/web.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/neezerba/accounts.neezerbari.com/routes/web.php on line 17
+[13-Apr-2021 01:35:25 UTC] PHP Fatal error:  Uncaught Error: Class 'Auth' not found in /home/neezerba/accounts.neezerbari.com/routes/web.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/neezerba/accounts.neezerbari.com/routes/web.php on line 17
